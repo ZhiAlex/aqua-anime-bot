@@ -1,0 +1,1 @@
+to start bot u must create .env file with token (TOKEN=your_token)
